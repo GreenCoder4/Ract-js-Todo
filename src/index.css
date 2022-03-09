@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.side_menu{
+  background-color: blueviolet;
+  width:200px;
+  height: 100vh;
+}
